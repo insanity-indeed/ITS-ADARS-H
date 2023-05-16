@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ITS-ADARS-H
+- 👋 Hi, I’m @ITS-ADARSH
 - 👀 I’m interested in ...AI
 - 🌱 I’m currently learning ...Computer Science and Business Systems
 - 💞️ I’m looking to collaborate on ...
